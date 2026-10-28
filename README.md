@@ -8,6 +8,10 @@
   A Nuxt app with server-side rendering, ready to deploy on Light Cloud.
 </p>
 
+<p align="center">
+  <a href="https://console.light-cloud.com/new?repo=https://github.com/light-cloud-com/starter-nuxt"><img src="https://light-cloud.com/button.svg" alt="Deploy to Light Cloud" /></a>
+</p>
+
 ---
 
 ## Features
